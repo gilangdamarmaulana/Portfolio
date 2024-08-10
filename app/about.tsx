@@ -33,9 +33,9 @@ export default function About() {
             My name is Gilang Damar Maulana. Im a college student in Ahmad
             Dahlan University. My hobby are the gym and trying new things.
           </p>
-          <div className="flex flex-row mb-4 w-1/2">
+          <div className="flex flex-row w-1/2">
             <div className="group">
-              <div className="flex flex-row mt-4 justify-center rounded-full border px-4 py-2 group-hover:bg-purple-500 bg-white">
+              <div className="flex flex-row mt-4 justify-center mb-4 rounded-full border px-4 py-2 group-hover:bg-purple-500 bg-white">
                 <DocumentArrowDownIcon className="size-6 group-hover:text-black" />
                 <Link
                   href={"/cv.pdf"}
