@@ -60,7 +60,7 @@ export default function Footer() {
         <div className="mb-4 md:mb-0">
           <h2 className="text-lg text-white font-bold">My Portofolio</h2>
           <p className="text-sm text-white">
-            <span>&copy</span> 2024 My Portofolio. All rights reserved.
+            © 2024 My Portofolio. All rights reserved.
           </p>
         </div>
       </div>
