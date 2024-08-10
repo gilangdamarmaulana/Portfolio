@@ -35,7 +35,7 @@ export default function About() {
           </p>
           <div className="flex flex-row w-1/2">
             <div className="group">
-              <div className="flex flex-row mt-4 justify-center mb-10 rounded-full border px-4 py-2 group-hover:bg-purple-500 bg-white">
+              <div className="flex flex-row mt-4 justify-center md:mb-0 mb-15 rounded-full border px-4 py-2 group-hover:bg-purple-500 bg-white">
                 <DocumentArrowDownIcon className="size-6 group-hover:text-black" />
                 <Link
                   href={"/cv.pdf"}
