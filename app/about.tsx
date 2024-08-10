@@ -30,7 +30,7 @@ export default function About() {
         <div className="flex-col w-full flex h-1/2 md:items-end items-center">
           <h1 className="text-6xl text-white w-1/2 h-1/2 font-serif">About</h1>
           <p className="text-xl text-white mt-4 w-1/2">
-            My name is Gilang Damar Maulana. I'm a college student in Ahmad
+            My name is Gilang Damar Maulana. Im a college student in Ahmad
             Dahlan University. My hobby are the gym and trying new things.
           </p>
           <div className="flex flex-row w-1/2">
